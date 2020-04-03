@@ -1,4 +1,4 @@
-[headshot](face.png)
+![headshot](face.png)
 # HeloWorld
 ##Este es mi primer repositorio para verificar
 
